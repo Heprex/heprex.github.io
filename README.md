@@ -1,5 +1,5 @@
 
-# Heprex GitHub Pages Repository
+# Personal GitHub Pages Repository
 
 Welcome to the **heprex.github.io** repository! This project is a practice ground for web development and GitHub Pages hosting, showcasing HTML, CSS, SCSS, and JavaScript skills.
 
